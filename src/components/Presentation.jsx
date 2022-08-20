@@ -3,6 +3,7 @@ import Carousel1 from '../slidebg-1.jpg'
 import Carousel2 from '../slidebg-2.jpg'
 import MovingText from 'react-moving-text'
 
+
 const Presentation = () => {
   return (
     <section className="page__presentation presentation">
@@ -79,7 +80,9 @@ const Presentation = () => {
 </div>
       </div>
     </section>
-  )
-}
+     )
+    }
+
+ 
 
 export default Presentation

@@ -53,20 +53,8 @@ export const menuItems = [
      ],
    },
  
-   {
-     title: "News",
-     submenu: [
-       {
-         title: "Classic news",
-         path: '/classic-news'
-       },
-       {
-         title: "Single post",
-         path: '/single-post'
-       },
-       
-     ],
-   },
+   
+     
    {
      title:'Contact',
      path: '/contact'

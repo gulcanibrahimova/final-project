@@ -11,10 +11,11 @@ const Navbar = () => {
 
    const searchRef = useRef()
    const overlayRef = useRef()
+   
    const [overlay, setOverlay] = useState(false);
    const [burger, setBurger] = useState(false);
    
-   // const handleBurger = () => setBurger(!click)
+   
    const handleClick = (e) => {
       if(overlayRef.current && (!e.target.classList.contains('overlay'))) {
          setOverlay(true)
@@ -33,7 +34,7 @@ const Navbar = () => {
    }
 
    const handleNavbar = () => {
-      setBurger(!burger)
+      setBurger(!burger) 
    }
       const closeMobileMenu = () => setBurger(false);
 
@@ -64,8 +65,9 @@ const Navbar = () => {
                      </li>
                      <li className="info__item">
                         <span className="info__icon"><FontAwesomeIcon icon={faEarthAmericas} size="2xs"/></span>
-                        <select name="English">
+                        <select name="English" >
                            <option value="-1">English</option>
+                        
                            <option value="">French</option>
                            <option value="">Russian</option>
                         </select>
