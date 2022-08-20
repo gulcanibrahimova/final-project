@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/final-project/static/css/main.4d7eebb6.css",
+    "main.js": "/final-project/static/js/main.39eae06f.js",
+    "static/media/teacher-2.jpeg": "/final-project/static/media/teacher-2.f6deacc6a33bf1aedbb5.jpeg",
+    "static/media/slidebg-1.jpg": "/final-project/static/media/slidebg-1.ae215f938b4d48fcabcd.jpg",
+    "static/media/slidebg-2.jpg": "/final-project/static/media/slidebg-2.c2733cdf46545c249c7f.jpg",
+    "static/media/news-1.jpg": "/final-project/static/media/news-1.49920a573c8a5097bde3.jpg",
+    "static/media/events-heading-bg.jpg": "/final-project/static/media/events-heading-bg.6d3efaa972137b9a85c4.jpg",
+    "static/media/team-heading-bg.jpg": "/final-project/static/media/team-heading-bg.99289cbf222a32bc1bc4.jpg",
+    "static/media/abstract01.jpg": "/final-project/static/media/abstract01.534f565aca8a82f6aba7.jpg",
+    "static/media/event-slider-2.jpg": "/final-project/static/media/event-slider-2.78c3c4f9bcb29f79b498.jpg",
+    "static/media/news-heading-bg.jpg": "/final-project/static/media/news-heading-bg.c1cf19035937692c189a.jpg",
+    "static/media/about-heading-bg.jpg": "/final-project/static/media/about-heading-bg.e1073a0f89e78bae544a.jpg",
+    "static/media/courses-gridbg.jpg": "/final-project/static/media/courses-gridbg.7543cd195e945bf7afb9.jpg",
+    "static/media/woman1.jpg": "/final-project/static/media/woman1.987d71598c23d40d73c0.jpg",
+    "static/media/event-slider-1.jpg": "/final-project/static/media/event-slider-1.161e0ea076c37d964faf.jpg",
+    "static/media/about-us-w1.jpg": "/final-project/static/media/about-us-w1.ac7f897c7c8d245dfca7.jpg",
+    "static/media/teacher-1.jpg": "/final-project/static/media/teacher-1.d74b084b74a83cf2f1f3.jpg",
+    "static/media/event-slider-3.jpg": "/final-project/static/media/event-slider-3.0a8993b0333bf577cf7c.jpg",
+    "static/media/news-2.jpg": "/final-project/static/media/news-2.15b9d5be92bbe395f3c4.jpg",
+    "static/media/teacher-2.jpg": "/final-project/static/media/teacher-2.d74b084b74a83cf2f1f3.jpg",
+    "static/media/single.jpg": "/final-project/static/media/single.01364f90bb82447eb499.jpg",
+    "static/media/teacher-3.jpg": "/final-project/static/media/teacher-3.01364f90bb82447eb499.jpg",
+    "static/media/teacher-4.jpg": "/final-project/static/media/teacher-4.48d8c207c016aa6c0ce9.jpg",
+    "static/media/about-us-w3.jpg": "/final-project/static/media/about-us-w3.30fbd5c133b205ddbb71.jpg",
+    "static/media/about-us-w2.jpg": "/final-project/static/media/about-us-w2.ee1ff35462491ceffa9f.jpg",
+    "static/media/testimonial-2.png": "/final-project/static/media/testimonial-2.fe0c6e62b1398f94a4af.png",
+    "static/media/testimonial-1.png": "/final-project/static/media/testimonial-1.bdb0e4f2bbb9f2b48980.png",
+    "static/media/man1.jpeg": "/final-project/static/media/man1.5242f215fbdb6a50dc3e.jpeg",
+    "static/media/slick.svg": "/final-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/final-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/final-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/final-project/index.html",
+    "static/media/slick.woff": "/final-project/static/media/slick.295183786cd8a1389865.woff",
+    "main.4d7eebb6.css.map": "/final-project/static/css/main.4d7eebb6.css.map",
+    "main.39eae06f.js.map": "/final-project/static/js/main.39eae06f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7eebb6.css",
+    "static/js/main.39eae06f.js"
+  ]
+}
